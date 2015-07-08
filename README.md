@@ -18,5 +18,8 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 5. Ctrl+Enter in the Source Code's Cell.
 6. ...
 
-* License : GPL3
+## 사용방법 (How to use in Korean)
+* <http://dymaxionkim.blogspot.kr/search/label/GPG>
+
+#### License : GPL3
 
