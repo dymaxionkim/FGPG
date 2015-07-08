@@ -1,6 +1,5 @@
 # FGPG
-Fine Involute Gear Profile Generator 
-in Julia Language.
+_Fine Involute Gear Profile Generator ... in Julia Language_
 
 ![case01.svg](http://1.bp.blogspot.com/-F_kEDwR4niE/VW8n2-qTsiI/AAAAAAAAcJA/iV22T-clb6U/s640/20150603_006.png)
 
