@@ -1,0 +1,18 @@
+Module,m,0.5
+Teeth Number,z,26
+Pressure Angle [Deg],alpha_0_deg,20
+Offset Factor,x,0.0
+Backlash Factor,b,0.0
+Addendum Factor,a,1.0
+Dedendum Factor,d,1.2
+Radius Factor of Edge Round of Hob,c,0.3
+Radius Factor of Edge Round of Tooth,e,0.2
+Center of Gear,x_0,0
+Center of Gear,y_0,0
+Segmentation Numbers,seg_circle,360
+Segmentation Numbers,seg_involute,20
+Segmentation Numbers,seg_edge_r,4
+Segmentation Numbers,seg_root_r,10
+Segmentation Numbers,seg_center,2
+Segmentation Numbers,seg_outter,6
+Segmentation Numbers,seg_root,6
