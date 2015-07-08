@@ -14,3 +14,5 @@ in Julia Language.
 5. Ctrl+Enter in the Source Code's Cell.
 6. ...
 
+* License : GPL3
+
