@@ -1,14 +1,13 @@
 # FGPG
 _Fine Involute Gear Profile Generator ... in Julia Language_
 
+* Repository : <https://github.com/dymaxionkim/FGPG>
+* Input Data File : [input4fgpg.csv](https://github.com/dymaxionkim/FGPG/blob/master/input4fgpg.csv)
+
 ![case01.svg](http://1.bp.blogspot.com/-F_kEDwR4niE/VW8n2-qTsiI/AAAAAAAAcJA/iV22T-clb6U/s640/20150603_006.png)
 
 ![case02.svg](http://1.bp.blogspot.com/-r8eonu7ySqY/VW8n2peQToI/AAAAAAAAcI8/wmAs91TuN6g/s640/20150603_005.png)
 
-
-* Repository : <https://github.com/dymaxionkim/FGPG>
-
-* Input Data File : [input4fgpg.csv](https://github.com/dymaxionkim/FGPG/blob/master/input4fgpg.csv)
 
 ## How to use
 1. Just go to http://juliabox.org
