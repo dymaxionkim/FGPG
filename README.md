@@ -6,7 +6,7 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 ![case02.svg](http://1.bp.blogspot.com/-r8eonu7ySqY/VW8n2peQToI/AAAAAAAAcI8/wmAs91TuN6g/s640/20150603_005.png)
 
 
-* Source Code : [FGPG_V11.ipynb](http://nbviewer.ipython.org/gist/dymaxionkim/fe9015463cd41cfb3f40)
+* Repository : <https://github.com/dymaxionkim/FGPG>
 
 * Input Data File : [input4fgpg.csv](https://github.com/dymaxionkim/FGPG/blob/master/input4fgpg.csv)
 
