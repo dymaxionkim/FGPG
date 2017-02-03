@@ -23,5 +23,53 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 ## 사용방법 (How to use in Korean)
 * <http://dymaxionkim.blogspot.kr/search/label/GPG>
 
-#### License : GPL3
 
+
+# Description of Files
+
+## Input File
+* __input4fgpg.csv__
+  - Input parameters to generate gear profile.
+  - You can edit this in a text editor.
+
+
+## Code
+* __FGPG_V11.ipynb__
+  - It works in Julia 0.4
+* __FGPG_V12.ipynb__
+  - It works in Julia 0.5
+
+
+## Output Files
+* __case.bat__
+  - Batch file for Automatic FEA in MS Windows OS.
+  - Should be installed Gmsh & Elmer
+  - PATH should be configured for Gmesh & Elmer
+  - Mesh generation by Gmsh
+  - Solving by Elmer
+  - Post-Processing by Gmsh
+* __case.sh__
+  - Batch file for Automatic FEA in Linux OS.
+  - Should be installed Gmsh & Elmer
+  - PATH should be configured for Gmesh & Elmer
+  - Mesh generation by Gmsh
+  - Solving by Elmer
+  - Post-Processing by Gmsh
+* __case.csv__
+  - Pure gear profile data.
+  - It ca be read into Spread sheet software or text editor.
+* __case.geo__
+  - Gear profile data to read into Gmsh.
+* __case.scr__
+  - Gear profile plotting script for AutoCAD.
+  - In AutoCAD, just type `script` and choose it.
+  - DraftSight compatible.
+* __case.sif__
+  - Solver Input file for Elmer FEM.
+* __case01.svg__
+  - Vector Graphic Picture
+* __case02.svg__
+  - Vector Graphic Picture
+
+
+#### License : GPL3
