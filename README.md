@@ -42,14 +42,14 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 * __case.bat__
   - Batch file for Automatic FEA in MS Windows OS.
   - Should be installed Gmsh & Elmer
-  - PATH should be configured for Gmesh & Elmer
+  - PATH should be configured for Gmsh & Elmer
   - Mesh generation by Gmsh
   - Solving by Elmer
   - Post-Processing by Gmsh
 * __case.sh__
   - Batch file for Automatic FEA in Linux OS.
   - Should be installed Gmsh & Elmer
-  - PATH should be configured for Gmesh & Elmer
+  - PATH should be configured for Gmsh & Elmer
   - Mesh generation by Gmsh
   - Solving by Elmer
   - Post-Processing by Gmsh
@@ -69,5 +69,8 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 * __case02.svg__
   - Vector Graphic Picture
 
+## Ref
+* __Gmsh__ : <http://gmsh.info/>
+* __Elmer FEM__ [Download](http://www.nic.funet.fi/pub/sci/physics/elmer/bin/) : <http://www.elmerfem.org/>
 
 #### License : GPL3
