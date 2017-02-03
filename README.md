@@ -9,7 +9,7 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 ![case02.svg](http://1.bp.blogspot.com/-r8eonu7ySqY/VW8n2peQToI/AAAAAAAAcI8/wmAs91TuN6g/s640/20150603_005.png)
 
 
-## How to use
+## How to use ([Korean Version](http://dymaxionkim.blogspot.kr/search/label/GPG))
 1. Just go to [http://juliabox.com](http://juliabox.com)
 2. Just Log in and Make new Working Directory.
 3. Upload FGPG_V12.ipynb & input4fgpg.csv file into the directory.
@@ -20,9 +20,7 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 8. Download Output files you need.
 9. Use them for AutoCAD/DraftSight, FreeCAD/CREO/CATIA.., ElmerFEM, GMSH ...
 
-## 사용방법 (How to use in Korean)
-* <http://dymaxionkim.blogspot.kr/search/label/GPG>
-
+-----
 
 
 # Description of Files
