@@ -22,6 +22,12 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 
 -----
 
+# Prerequisites
+* Jupyter Notebook
+  - Python 3 + Jupyter + Matplotlib
+* Julia 1.0
+  - PyPlot + CSV + DataFrames
+
 
 # Description of Files
 
