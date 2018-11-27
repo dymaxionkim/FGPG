@@ -32,10 +32,8 @@ _Fine Involute Gear Profile Generator ... in Julia Language_
 
 
 ## Code
-* __FGPG_V11.ipynb__
-  - It works in Julia 0.4
-* __FGPG_V12.ipynb__
-  - It works in Julia 0.5
+* __FGPG.ipynb__
+  - It works in Julia 1.0
 
 
 ## Output Files
