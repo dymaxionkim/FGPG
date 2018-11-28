@@ -1,0 +1,28 @@
+# Gmsh Data
+*.geo
+*.msh
+netgen.prof
+
+# AutoCAD Data
+*.scr
+*.dxf
+*.dwg
+
+# Inkscape Data
+*.svg
+
+# Excel Data
+*.csv
+
+# ElmerFEM Data
+*.xml
+*.sif
+mesh.boundary
+mesh.elements
+mesh.header
+mesh.nodes
+
+# OS Scripts
+*.bat
+*.sh
+
