@@ -1,5 +1,5 @@
 Name,Variable,Value
-Module(0.5~25),m,10.0
+Module(0.5~25),m,1.0
 Teeth Number(6~150),z,15
 Pressure Angle [Deg],alpha_0_deg,20
 Offset Factor,x,0.5
