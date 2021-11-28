@@ -26,3 +26,5 @@ mesh.nodes
 *.bat
 *.sh
 
+# .ipynb_checkpoints
+.ipynb_checkpoints/
